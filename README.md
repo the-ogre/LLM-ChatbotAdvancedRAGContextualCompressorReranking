@@ -1,4 +1,4 @@
-# RAG based Chabot with Cohere's Contextual Compressor Reranking, FAISS and OpenAI
+# RAG based Chatbot with Cohere's Contextual Compressor Reranking, FAISS and OpenAI
 
 # Executive Summary
 This project aims to build an advanced retrieval system using cutting-edge NLP and deep learning technologies. The system leverages LangChain, a comprehensive NLP library, and OpenAI's GPT-3.5 Turbo model for response generation. The retrieval process involves document embedding, compression, and reranking through Cohere API, ultimately delivering precise and contextually relevant answers to user queries.
